@@ -1,3 +1,3 @@
 # Dictionary - Netlify Link
 
-https://luxury-gecko-9e8bf4.netlify.app/
+https://tiny-puppy-3f88f1.netlify.app/
